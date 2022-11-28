@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppTongHop</string>
+
+
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+
+
+</resources>
